@@ -1,0 +1,11 @@
+
+:
+
+source.iml,7\6\76177fbed03dd9f0142b50273a1b529389f55272
+G
+source/styles/style.css,7\7\77fa425b635ea8f08cc05a9009e9127c441ac711
+H
+source/scripts/script.js,6\3\63bf0192c25969984c2a2086c277045980d6800d
+:
+
+index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
